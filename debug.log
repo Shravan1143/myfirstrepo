@@ -1,0 +1,2 @@
+[29196:31324:0531/111944.801:VERBOSE1:installer.cc(386)] "C:\Users\Dell 3400\Downloads\ChromeSetup(1).exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={8A60564F-A385-9601-4CEC-BCD6270E9E94}&lang=en-GB&browser=3&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-statsdef_1&installdataindex=empty --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/updater/*=2
+[29196:31324:0531/114933.269:VERBOSE1:installer.cc(491)] Metainstaller WMain returned: 0, Windows error: 0
